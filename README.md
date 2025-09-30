@@ -1,4 +1,4 @@
-# Pedro SILVA
+# Pedro Silva
 
 I am a MSc student living in London, UK.
 
@@ -8,4 +8,4 @@ Some facts about me
 
 - I am interested in real world applications of statistics
 
-Get access to my github page [hee](https://github.com/peulsilva)
+Get access to my github page [here](https://github.com/peulsilva)
