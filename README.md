@@ -6,6 +6,6 @@ I did my undergrad in Paris, France.
 
 Some facts about me
 
-- I am interested in real world applications of statistics
+- I am interested in real-world applications of statistics
 
 Get access to my github page [here](https://github.com/peulsilva)
